@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.key
+*.pem
+*.iso
+*.ova
+*.vdi
+*.vmdk
+*.qcow
+*.qcow2
+*.dmp
+*.mem
